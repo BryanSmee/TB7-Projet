@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="evaluateur.h" />
     <ClInclude Include="Header.h" />
   </ItemGroup>
   <ItemGroup>

@@ -37,5 +37,3 @@ typedef struct Maillon {
 
 void afficher_erreur(int erreur);
 
-float evaluateur(Arbre arbre, float x);
-
